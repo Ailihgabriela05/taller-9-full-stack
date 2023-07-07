@@ -1,0 +1,21 @@
+table{
+    border: 1px dotted;
+    border-collapse: collapse;
+    margin: 0px 230px;
+    background: yellow;
+}
+
+table td{
+    border: 1px dotted;
+}
+
+p{
+    margin: auto;
+    text-align: center;
+    color: red;
+}
+
+span{
+    margin-right: 7%;
+    text-decoration: none;
+}

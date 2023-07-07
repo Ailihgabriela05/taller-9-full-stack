@@ -1,0 +1,26 @@
+
+.span_1{
+    color: rgb(22, 179, 22);
+}
+.span_2{
+    color: red;
+}
+.span_3{
+    text-decoration: underline;
+    text-decoration: overline;
+}
+
+.span_4{
+    font-size: 50px;
+    line-height: 80px;
+}
+.span_5_6{
+    font-size: 20px;
+    line-height: 30px;  
+}
+.span_5{
+    color: blue;
+}
+.span_6{
+    color: red;
+}
